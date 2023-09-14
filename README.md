@@ -1,2 +1,2 @@
-# stat-545-demo-YOUR-NAME
-STAT 545 Demo
+Wakeel # stat-545-demo-YOUR-NAME
+Statistician
